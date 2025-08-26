@@ -1,5 +1,4 @@
-# Ekart-Backend
-
+#E-Kart – E-commerce Backend (MERN Stack)
 MERN E-Commerce App Documentation
 This guide walks through building a full-stack MERN (MongoDB, Express, React, Node.js) e-commerce application with an admin panel. It covers project setup, directory structure, features, API design, frontend-backend integration, and deployment on Render. Citations to authoritative sources are included for key steps and best practices.
 
